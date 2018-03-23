@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Fri Mar 23 13:09:44 UTC 2018 - igonzalezsosa@suse.com
+
+- Add a new scenario using a LVM setup with a thin pool
+  (bsc#1086596).
+- 1.2.34
+
+-------------------------------------------------------------------
 Mon Mar 12 14:57:40 CET 2018 - schubi@suse.de
 
 - Removed profile_sections.sh from sles_network.rb test due missing
